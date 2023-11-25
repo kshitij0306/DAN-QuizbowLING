@@ -64,7 +64,7 @@ To run the code, follow these steps:
 
 2. Run the provided Python script:
    ```bash
-   python dan_classifier.py
+   python dan.py
 
 3. Adjust the script's arguments for file paths, batch size, number of epochs, etc., as needed.
  
