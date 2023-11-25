@@ -1,4 +1,4 @@
-# Project Title: Quizbowl Question Type Classifier using Deep Averaging Network (DAN) 🤖📚
+# Quizbowl Question Type Classifier using Deep Averaging Network (DAN) 🤖📚
 
 ## Overview 🌐
 
