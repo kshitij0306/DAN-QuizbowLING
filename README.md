@@ -6,18 +6,18 @@ This project implements a Deep Averaging Network (DAN) for classifying quizbowl 
 
 ## Table of Contents 📜
 
-1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Implementation](#implementation)
-   - [Data Loading and Preprocessing](#data-loading-and-preprocessing)
-   - [Model Architecture](#model-architecture)
-   - [Training](#training)
-   - [Evaluation](#evaluation)
-4. [Results](#results)
-5. [Usage](#usage)
-6. [Future Improvements](#future-improvements)
-7. [Contributing](#contributing)
-8. [License](#license)
+1. [Introduction](#introduction-)
+2. [Dataset](#dataset-)
+3. [Implementation](#implementation-)
+   - [Data Loading and Preprocessing](#data-loading-and-preprocessing-)
+   - [Model Architecture](#model-architecture-)
+   - [Training](#training-)
+   - [Evaluation](#evaluation-)
+4. [Results](#results-)
+5. [Usage](#usage-)
+6. [Future Improvements](#future-improvements-)
+7. [Contributing](#contributing-)
+8. [License](#license-)
 
 ## Introduction 🚀
 
